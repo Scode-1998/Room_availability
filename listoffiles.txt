@@ -1,0 +1,7 @@
+1.git init -->Initialize local git repository
+2.git add<file> --> Add File to the Index.
+3.git status --> Check Status of working tree.
+4.git commit -->  Commit Changes in Index.
+5.git push --> push to remote repository.
+6.git pull -->pull latest from the repository.
+7.git clone  --> Clone Repository Into a new Directory.
